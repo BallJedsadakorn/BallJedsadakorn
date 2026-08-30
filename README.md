@@ -74,3 +74,9 @@ Before that, I studied Computer Science at Kasetsart University, where I worked 
 <a href="http://www.github.com/BallJedsadakorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BallJedsadakorn&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BallJedsadakorn/BallJedsadakorn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BallJedsadakorn/BallJedsadakorn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BallJedsadakorn/BallJedsadakorn/output/github-snake.svg" />
+</picture>
