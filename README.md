@@ -71,8 +71,6 @@ Before that, I studied Computer Science at Kasetsart University, where I worked 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BallJedsadakorn&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+<a href="http://www.github.com/BallJedsadakorn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BallJedsadakorn&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
