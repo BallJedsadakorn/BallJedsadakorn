@@ -33,7 +33,7 @@ Before that, I studied Computer Science at Kasetsart University, where I worked 
  
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
 **Data Engineer (Contract)** · *May 2025 – Dec 2025*
 - Designed and maintained end-to-end data pipelines using Airflow and Airbyte for analytics and business operations
