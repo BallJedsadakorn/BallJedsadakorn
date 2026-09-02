@@ -55,7 +55,6 @@ Before that, I studied Computer Science at Kasetsart University, where I worked 
 ||
 | **[System Analysis & Design Project](https://github.com/TanapatButsai/Crownseal-Project)** (2023) | Planned a project end-to-end: requirements gathering, case studies, ER diagrams, use cases, and business flow modeling | Java, HTML, CSS, UML, ER Diagrams |
 | **[Software Engineering Project](https://github.com/TanapatButsai/YakiWebsite)** (2023) | Applied Agile methodology to a team software project; used GitHub, Jira, Spring Framework, Jenkins, and Docker for CI/CD | Java, Docker, Jenkins, Jira |
-| **ERP Project** (2023) | Analyzed and modeled a business process transformation using ERP concepts, focused on organizational efficiency | Odoo, Business Process Modeling |
 | **[KUShopApp](https://github.com/toonnutthawat/KUShopApp)** (2025) | Final year project — mobile app with a fully serverless backend | React Native, TypeScript, AWS AppSync, DynamoDB, Cognito, S3, Amplify |
 | **[Realtime-order-pipeline-practice](https://github.com/BallJedsadakorn/realtime-order-pipeline-practice)** (2026) | Real-time e-commerce order pipeline — Kafka streaming ingestion, PySpark Structured Streaming, cloud infrastructure provisioned via Terraform | Python, Kafka (Redpanda), PySpark, PostgreSQL, GCS, Terraform, Airflow, Docker |
 
