@@ -57,6 +57,7 @@ Before that, I studied Computer Science at Kasetsart University, where I worked 
 | **[Software Engineering Project](https://github.com/TanapatButsai/YakiWebsite)** (2023) | Applied Agile methodology to a team software project; used GitHub, Jira, Spring Framework, Jenkins, and Docker for CI/CD | Java, Docker, Jenkins, Jira |
 | **[KUShopApp](https://github.com/toonnutthawat/KUShopApp)** (2025) | Final year project — mobile app with a fully serverless backend | React Native, TypeScript, AWS AppSync, DynamoDB, Cognito, S3, Amplify |
 | **[Realtime-order-pipeline-practice](https://github.com/BallJedsadakorn/realtime-order-pipeline-practice)** (2026) | Real-time e-commerce order pipeline — Kafka streaming ingestion, PySpark Structured Streaming, cloud infrastructure provisioned via Terraform | Python, Kafka (Redpanda), PySpark, PostgreSQL, GCS, Terraform, Airflow, Docker |
+| **[Ecommerce_pipeline_dbt](https://github.com/BallJedsadakorn/ecommerce_pipeline_dbt)** (2026) | Production-style analytics pipeline — dbt for staging-to-marts transformation, orchestrated with Airflow, PostgreSQL warehouse, one-command local setup via Docker Compose | Python, dbt, Airflow, PostgreSQL, Docker |
 
 
 
